@@ -92,3 +92,4 @@ public class VizitkaService {
         seznamVizitek.remove(id);
     }
 }
+

@@ -87,3 +87,4 @@ public class Vizitka {
     return ulice + ", " + obecPsc;
   }
 }
+
